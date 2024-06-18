@@ -5,6 +5,19 @@
   - Whatsapp : +261 32 24 060 77
   - E-mail : [ericfahendrena29@gmail.com](mailto:ericfahendrena29@gmail.com)
 - 😄 Pronouns: He/Him
+- Technologies :
+  
+  ![Static Badge](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript)
+  ![Static Badge](https://img.shields.io/badge/Laravel-222?style=for-the-badge&logo=laravel)
+  ![Static Badge](https://img.shields.io/badge/PHP-222?style=for-the-badge&logo=php)
+  ![Static Badge](https://img.shields.io/badge/NodeJS-222?style=for-the-badge&logo=nodedotjs)
+  ![Static Badge](https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql)
+  ![Static Badge](https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express)
+  ![Static Badge](https://img.shields.io/badge/React-222?style=for-the-badge&logo=react)
+  ![Static Badge](https://img.shields.io/badge/Html%205-222?style=for-the-badge&logo=html5)
+  ![Static Badge](https://img.shields.io/badge/CSS%203-222?style=for-the-badge&logo=css3)
+  ![Static Badge](https://img.shields.io/badge/Bootstrap-222?style=for-the-badge&logo=bootstrap)
+  ![Static Badge](https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb)
 
 <!---
 eric-fahendrena/eric-fahendrena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
