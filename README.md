@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Eric
 - 👀 I’m interested in web development
 - 📫 How to reach me :
-  - Phone : [+261 32 24 060 77](+261322406077)
-  - Whatsapp : +261 32 24 060 77
+  - Phone : [+261 33 99 331 34](+261339933134), [+261 37 61 489 87](+261376148987)
   - E-mail : [ericfahendrena29@gmail.com](mailto:ericfahendrena29@gmail.com)
 - 😄 Pronouns: He/Him
 - Technologies :
